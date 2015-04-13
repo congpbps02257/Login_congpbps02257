@@ -48,3 +48,16 @@ D:\Login\Login\obj\Debug\Login.Resources.resources
 D:\Login\Login\obj\Debug\Login.frQLKhachHang.resources
 D:\Login\Login\obj\Debug\Login.frQLSanPham.resources
 D:\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\bin\Debug\Login.exe.config
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.exe
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.xml
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.pdb
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\bin\Debug\Login.exe
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\bin\Debug\Login.pdb
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\bin\Debug\Login.xml
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.FrLogin.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.frMain.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.Resources.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.frQLKhachHang.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.frQLSanPham.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Test\Login_congpbps02257\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
