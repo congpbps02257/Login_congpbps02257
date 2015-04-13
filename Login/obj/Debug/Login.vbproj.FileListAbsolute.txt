@@ -1,0 +1,50 @@
+c:\users\pc01\documents\visual studio 2012\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\bin\Debug\Login.exe
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\bin\Debug\Login.pdb
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\bin\Debug\Login.xml
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\obj\Debug\Login.exe
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\obj\Debug\Login.xml
+C:\Users\Phan Ba Cong\Desktop\New folder\Login\Login\obj\Debug\Login.pdb
+D:\congpbps02257\Login\Login\bin\Debug\Login.exe.config
+D:\congpbps02257\Login\Login\obj\Debug\Login.exe
+D:\congpbps02257\Login\Login\obj\Debug\Login.xml
+D:\congpbps02257\Login\Login\obj\Debug\Login.pdb
+D:\congpbps02257\Login\Login\bin\Debug\Login.exe
+D:\congpbps02257\Login\Login\bin\Debug\Login.pdb
+D:\congpbps02257\Login\Login\bin\Debug\Login.xml
+D:\congpbps02257\Login\Login\obj\Debug\Login.Resources.resources
+D:\congpbps02257\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+D:\congpbps02257\Login\Login\obj\Debug\Login.FrLogin.resources
+D:\congpbps02257\Login\Login\obj\Debug\Login.frMain.resources
+D:\congpbps02257\Login\Login\obj\Debug\Login.frQLKhachHang.resources
+D:\congpbps02257\Login\Login\obj\Debug\Login.frQLSanPham.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.exe
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.xml
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.pdb
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\bin\Debug\Login.exe
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\bin\Debug\Login.pdb
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\bin\Debug\Login.xml
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.FrLogin.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.frMain.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.frQLKhachHang.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.frQLSanPham.resources
+C:\Users\Phan Ba Cong\Desktop\New folder\Lab6\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+D:\Login\Login\bin\Debug\Login.exe.config
+D:\Login\Login\obj\Debug\Login.exe
+D:\Login\Login\obj\Debug\Login.xml
+D:\Login\Login\obj\Debug\Login.pdb
+D:\Login\Login\bin\Debug\Login.exe
+D:\Login\Login\bin\Debug\Login.pdb
+D:\Login\Login\bin\Debug\Login.xml
+D:\Login\Login\obj\Debug\Login.FrLogin.resources
+D:\Login\Login\obj\Debug\Login.frMain.resources
+D:\Login\Login\obj\Debug\Login.Resources.resources
+D:\Login\Login\obj\Debug\Login.frQLKhachHang.resources
+D:\Login\Login\obj\Debug\Login.frQLSanPham.resources
+D:\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
